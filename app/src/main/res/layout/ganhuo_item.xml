@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="1dp"
+    app:cardElevation="3dp"
+    app:cardCornerRadius="1dp"
+    android:background="#FFFFFF"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/title"
+            android:text="一个垂直方向的DrawerLayout,抽屉从上向下展开"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:textColor="#494949"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/type"
+                android:drawableLeft="@drawable/ic_whatshot_black_24dp"
+                android:drawablePadding="2dp"
+                android:text="Android"
+                android:textSize="12sp"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/who"
+                android:drawableLeft="@drawable/ic_account_box_black_24dp"
+                android:drawablePadding="2dp"
+                android:text="xiaolong"
+                android:textSize="12sp"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/time"
+                android:drawableLeft="@drawable/ic_alarm_black_24dp"
+                android:drawablePadding="2dp"
+                android:text="2016-5-17"
+                android:textSize="12sp"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

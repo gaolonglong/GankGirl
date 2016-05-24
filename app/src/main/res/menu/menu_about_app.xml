@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".view.activity.MainActivity">
+    <item
+        android:id="@+id/action_share_app"
+        android:orderInCategory="100"
+        android:title="分享App"
+        app:showAsAction="never" />
+</menu>
