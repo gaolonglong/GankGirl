@@ -1,6 +1,11 @@
 # GankGirl
 gank.io第三方客户端，包含妹子图和技术干货等。RxJava+Retrofit结合做网络请求，Glide做网络和本地图片加载库。妹子图支持手势缩放、保存和分享等。并整合了Material Design，更加美观。（练手项目，大神轻喷。）
 
+Download：
+------------
+
+[下载](http://fir.im/kh4x)
+
 
 Libs：
 ------------
