@@ -37,4 +37,4 @@ Thanks：
 
 Screenshot：
 ------------
-![](https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif) ...  ![](https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/33.png)
+![](https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif) ... ...  ![](https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/33.png)
